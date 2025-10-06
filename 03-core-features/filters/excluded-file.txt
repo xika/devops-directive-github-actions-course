@@ -1,1 +1,1 @@
-test exclude if trigger
+test exclude if trigger and another time
